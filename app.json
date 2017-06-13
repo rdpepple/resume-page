@@ -1,0 +1,6 @@
+{
+  "name": "RDP resume_page on Heroku",
+  "description": "Online resume page for Robert Pepple",
+  "repository": "https://github.com/rdpepple/resume-page",
+  "keywords": ["node", "express", "heroku"]
+}

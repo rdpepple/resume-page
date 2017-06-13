@@ -1,0 +1,26 @@
+{
+  "name": "rdp_resume_page",
+  "version": "1.0.0",
+  "description": "Online resume for Robert Pepple",
+  "engines": {
+    "node": "7.1.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "ejs": "2.5.6",
+    "express": "4.15.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rdpepple/resume-page"
+  },
+  "keywords": [
+    "node",
+    "heroku",
+    "express"
+  ],
+  "license": "UNLICENSED"
+}
